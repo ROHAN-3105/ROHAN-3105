@@ -161,23 +161,18 @@ Add link here
 
 ---
 
-# 💻 Coding Profiles
+## 💻 Coding Profiles
 
-LeetCode
+📊 **Codolio** *(includes all my coding profiles)*
 
-Add Link
+- 🟧 LeetCode
+- 🟢 GeeksforGeeks
+- 🟤 CodeChef
+- 🔵 Codeforces
+- 📚 Striver's A2Z DSA Sheet
 
-CodeChef
-
-Add Link
-
-HackerRank
-
-Add Link
-
-GitHub
-
-https://github.com/YOUR_USERNAME
+🔗 **Codolio:** https://codolio.com/profile/Rakuten15
+🔗 **Striver:** https://takeuforward.org/profile/Rakuten15
 
 ---
 
