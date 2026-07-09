@@ -178,12 +178,7 @@ Add link here
 
 # 📜 Certifications
 
-- AWS Cloud
-- Google Cloud
-- IBM
-- Coursera
-- Oracle
-- HackerRank
+
 
 (Add your certificates)
 
