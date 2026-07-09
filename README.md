@@ -100,6 +100,25 @@ AI-powered indoor health monitoring platform using IoT sensors, FastAPI, React a
 🔗 Repository
 
 https://github.com/ROHAN-3105/indoor-health-hub
+---
+
+
+## 🚗 InsurRenew Pro Agent
+
+AI-powered Insurance Renewal Assistant built during the InyaAI BuildWithInya Hackathon.
+
+### Features
+
+- Voice-based Insurance Renewal
+- Hindi & English Support
+- Coverage Recommendation
+- Policy Verification
+- Payment Link Generation
+
+🔗 Repository
+
+Add link here
+
 
 
 ---
@@ -138,21 +157,7 @@ Add link here
 
 ---
 
-## 🚗 InsurRenew Pro Agent
 
-AI-powered Insurance Renewal Assistant built during the InyaAI BuildWithInya Hackathon.
-
-### Features
-
-- Voice-based Insurance Renewal
-- Hindi & English Support
-- Coverage Recommendation
-- Policy Verification
-- Payment Link Generation
-
-🔗 Repository
-
-Add link here
 
 ---
 
