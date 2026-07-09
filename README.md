@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PV Rohan</h1>
 
 <h3 align="center">
-Computer Science Student • AI Developer • Full Stack Developer
+Computer Science Student • AI Developer • Full Stack Developer • <a href="https://github.com/ROHAN-3105/Resume/blob/main/resume.pdf">📄 Resume</a>
 </h3>
 
 <p align="center">
