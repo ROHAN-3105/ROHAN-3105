@@ -204,15 +204,15 @@ Add link here
 
 LinkedIn
 
-Add Link
+https://www.linkedin.com/in/pv-rohan-b73441289/
 
 Portfolio
 
-Add Link
+Add Link(soon)
 
 Email
 
-Add Email
+rohan.051031@gmail.com
 
 ---
 
