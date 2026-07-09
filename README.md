@@ -99,7 +99,8 @@ AI-powered indoor health monitoring platform using IoT sensors, FastAPI, React a
 
 🔗 Repository
 
-Add link here
+https://github.com/ROHAN-3105/indoor-health-hub
+
 
 ---
 
